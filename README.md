@@ -1,4 +1,7 @@
 ### Hi there 👋
+Most of my work is kept on my own git/Gitea server, and not so much here. 
+
+Get in touch via https://www.muninn.co.uk/contact 
 
 <!--
 **lanc2112b/lanc2112b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
