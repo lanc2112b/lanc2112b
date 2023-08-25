@@ -1,5 +1,7 @@
 ### Hi there 👋
-Most of my work is kept on my own git/Gitea server, and not so much here. 
+Most of my work is kept on my own git/Gitea server, and not so much here. Where the activity is a little more substantial. :)
+
+![Gitea Activity](/2023-08-25_15-00.png)
 
 Get in touch via https://www.muninn.co.uk/contact 
 
