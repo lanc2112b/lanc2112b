@@ -2,6 +2,7 @@
 Most of my work is kept on my own git/Gitea server, and not so much here. Where the activity is a little more substantial. :)
 
 ![Gitea Activity](/gitt-contribs-upto-05-jul-2024.png)
+*Gitea activity as of 05/07/2024*
 
 Get in touch via https://www.muninn.co.uk/contact 
 
